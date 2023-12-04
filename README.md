@@ -7,4 +7,6 @@
 
 * **섹션 1.Hello World - 자바 프로그램 실행** : https://velog.io/@hcw0709/%EC%9E%90%EB%B0%94-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8-%EC%8B%A4%ED%96%89
 
-* **섹션 1.Hello World - 주석** : https://velog.io/@hcw0709/%EC%A3%BC%EC%84%9D 
+* **섹션 1.Hello World - 주석** : https://velog.io/@hcw0709/%EC%A3%BC%EC%84%9D
+
+* **섹션 1.Hello World - 자바란?** : https://velog.io/@hcw0709/%EC%9E%90%EB%B0%94%EB%9E%80 
