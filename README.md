@@ -11,4 +11,7 @@
 
 * **[섹션 1.Hello World - 자바란?](https://velog.io/@hcw0709/%EC%9E%90%EB%B0%94%EB%9E%80)**
 
-* **[섹션 2.변수 - 변수 시작](https://velog.io/@hcw0709/%EB%B3%80%EC%88%98-%EC%8B%9C%EC%9E%91)**  
+* **[섹션 2.변수 - 변수 시작](https://velog.io/@hcw0709/%EB%B3%80%EC%88%98-%EC%8B%9C%EC%9E%91)**
+
+* **[섹션 2.변수 - 변수 값 변경](https://velog.io/@hcw0709/%EB%B3%80%EC%88%98-%EA%B0%92-%EB%B3%80%EA%B2%BD)**
+
