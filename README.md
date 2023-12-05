@@ -15,3 +15,5 @@
 
 * **[섹션 2.변수 - 변수 값 변경](https://velog.io/@hcw0709/%EB%B3%80%EC%88%98-%EA%B0%92-%EB%B3%80%EA%B2%BD)**
 
+* **[섹션 2.변수 - 변수 선언과 초기화](https://velog.io/@hcw0709/%EB%B3%80%EC%88%98-%EC%84%A0%EC%96%B8%EA%B3%BC-%EC%B4%88%EA%B8%B0%ED%99%94)**
+
