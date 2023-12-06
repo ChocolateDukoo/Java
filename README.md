@@ -23,4 +23,12 @@
 
 * **[섹션 2.변수 - 변수의 명명규칙](https://velog.io/@hcw0709/%EB%B3%80%EC%88%98%EC%9D%98-%EB%AA%85%EB%AA%85-%EA%B7%9C%EC%B9%99)**
 
-* **[섹션 2.변수 - 문제와 풀이](https://velog.io/@hcw0709/%EB%AC%B8%EC%A0%9C%EC%99%80-%ED%92%80%EC%9D%B4)** 
+* **[섹션 2.변수 - 문제와 풀이](https://velog.io/@hcw0709/%EB%AC%B8%EC%A0%9C%EC%99%80-%ED%92%80%EC%9D%B4)**
+
+* **[섹션 3.연산자 - 산술 연산](https://velog.io/@hcw0709/%EC%82%B0%EC%88%A0-%EC%97%B0%EC%82%B0%EC%9E%90)**
+
+* **[섹션 3.연산자 - 문자열 더하기](https://velog.io/@hcw0709/%EB%AC%B8%EC%9E%90%EC%97%B4-%EB%8D%94%ED%95%98%EA%B8%B0)**
+
+* **[섹션 3.연산자 - 연산자 우선순위](https://velog.io/@hcw0709/%EC%97%B0%EC%82%B0%EC%9E%90-%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84)**
+
+* **[섹션 3.연산자 - 증감 연산자](https://velog.io/@hcw0709/%EC%A6%9D%EA%B0%90-%EC%97%B0%EC%82%B0%EC%9E%90)**
