@@ -20,3 +20,7 @@
 * **[섹션 2.변수 - 변수 타입1](https://velog.io/@hcw0709/%EB%B3%80%EC%88%98-%ED%83%80%EC%9E%851)**
 
 * **[섹션 2.변수 - 변수 타입2](https://velog.io/@hcw0709/%EB%B3%80%EC%88%98-%ED%83%80%EC%9E%852)**
+
+* **[섹션 2.변수 - 변수의 명명규칙](https://velog.io/@hcw0709/%EB%B3%80%EC%88%98%EC%9D%98-%EB%AA%85%EB%AA%85-%EA%B7%9C%EC%B9%99)**
+
+* **[섹션 2.변수 - 문제와 풀이](https://velog.io/@hcw0709/%EB%AC%B8%EC%A0%9C%EC%99%80-%ED%92%80%EC%9D%B4)** 
