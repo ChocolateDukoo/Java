@@ -32,3 +32,13 @@
 * **[섹션 3.연산자 - 연산자 우선순위](https://velog.io/@hcw0709/%EC%97%B0%EC%82%B0%EC%9E%90-%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84)**
 
 * **[섹션 3.연산자 - 증감 연산자](https://velog.io/@hcw0709/%EC%A6%9D%EA%B0%90-%EC%97%B0%EC%82%B0%EC%9E%90)**
+
+* **[섹션 3.연산자 - 비교 연산자](https://velog.io/@hcw0709/%EB%B9%84%EA%B5%90-%EC%97%B0%EC%82%B0%EC%9E%90)**
+
+* **[섹션 3.연산자 - 논리 연산자](https://velog.io/@hcw0709/%EB%85%BC%EB%A6%AC-%EC%97%B0%EC%82%B0%EC%9E%90)**
+
+* **[섹션 3.연산자 - 대입 연산자](https://velog.io/@hcw0709/%EB%8C%80%EC%9E%85-%EC%97%B0%EC%82%B0%EC%9E%90)**
+
+* **[섹션 3.연산자 - 문제와 풀이](https://velog.io/@hcw0709/%EB%AC%B8%EC%A0%9C%EC%99%80-%ED%92%80%EC%9D%B4-hzm6j9x6)**
+
+* **[섹션 3.연산자 - 정리](https://velog.io/@hcw0709/%EC%A0%95%EB%A6%AC)**
