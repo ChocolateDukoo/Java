@@ -42,3 +42,17 @@
 * **[섹션 3.연산자 - 문제와 풀이](https://velog.io/@hcw0709/%EB%AC%B8%EC%A0%9C%EC%99%80-%ED%92%80%EC%9D%B4-hzm6j9x6)**
 
 * **[섹션 3.연산자 - 정리](https://velog.io/@hcw0709/%EC%A0%95%EB%A6%AC)**
+
+* **[섹션 4.조건문 - if문1 (if, else)](https://velog.io/@hcw0709/if%EB%AC%B81-if-else)**
+
+* **[섹션 4.조건문 - if문2 (else if)](https://velog.io/@hcw0709/if%EB%AC%B82-else-if)**
+
+* **[섹션 4.조건문 - if문3 (if문과 else if문)](https://velog.io/@hcw0709/if%EB%AC%B8%EA%B3%BC-else-if%EB%AC%B8)**
+
+* **[섹션 4.조건문 - switch문](https://velog.io/@hcw0709/switch%EB%AC%B8)**
+
+* **[섹션 4.조건문 - 삼항연산자](https://velog.io/@hcw0709/%EC%82%BC%ED%95%AD-%EC%97%B0%EC%82%B0%EC%9E%90)**
+
+* **[섹션 4.조건문 - 문제와 풀이1](https://velog.io/@hcw0709/%EB%AC%B8%EC%A0%9C%EC%99%80-%ED%92%80%EC%9D%B41)**
+
+* **[섹션 4.조건문 - 문제와 풀이2](https://velog.io/@hcw0709/%EB%AC%B8%EC%A0%9C%EC%99%80-%ED%92%80%EC%9D%B42)**
