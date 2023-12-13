@@ -56,3 +56,25 @@
 * **[섹션 4.조건문 - 문제와 풀이1](https://velog.io/@hcw0709/%EB%AC%B8%EC%A0%9C%EC%99%80-%ED%92%80%EC%9D%B41)**
 
 * **[섹션 4.조건문 - 문제와 풀이2](https://velog.io/@hcw0709/%EB%AC%B8%EC%A0%9C%EC%99%80-%ED%92%80%EC%9D%B42)**
+
+* **[섹션 5. 반복문 - 반복문 시작](https://velog.io/@hcw0709/%EB%B0%98%EB%B3%B5%EB%AC%B8-%EC%8B%9C%EC%9E%91)**
+
+* **[섹션 5. 반복문 - while문1](https://velog.io/@hcw0709/while%EB%AC%B81)**
+
+* **[섹션 5. 반복문 - while문2](https://velog.io/@hcw0709/while%EB%AC%B82)**
+
+* **[섹션 5. 반복문 - do-while문](https://velog.io/@hcw0709/do-while%EB%AC%B8)**
+
+* **[섹션 5. 반복문 - break, continue](https://velog.io/@hcw0709/break-continue)**
+
+* **[섹션 5. 반복문 - for문1](https://velog.io/@hcw0709/for%EB%AC%B81)**
+
+* **[섹션 5. 반복문 - for문2](https://velog.io/@hcw0709/for%EB%AC%B82)**
+
+* **[섹션 5. 반복문 - 중첩 반복문](https://velog.io/@hcw0709/%EC%A4%91%EC%B2%A9-%EB%B0%98%EB%B3%B5%EB%AC%B8)**
+
+* **[섹션 5. 반복문 - 문제와 풀이1](https://velog.io/@hcw0709/%EB%AC%B8%EC%A0%9C%EC%99%80-%ED%92%80%EC%9D%B41-botr0q1b)**
+
+* **[섹션 5. 반복문 - 문제와 풀이2](https://velog.io/@hcw0709/%EB%AC%B8%EC%A0%9C%EC%99%80-%ED%92%80%EC%9D%B42-rhp3h8k9)**
+
+* **[섹션 5. 반복문 - 정리](https://velog.io/@hcw0709/%EC%A0%95%EB%A6%AC-u8ab2lkq)**
