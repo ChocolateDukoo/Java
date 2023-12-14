@@ -78,3 +78,15 @@
 * **[섹션 5. 반복문 - 문제와 풀이2](https://velog.io/@hcw0709/%EB%AC%B8%EC%A0%9C%EC%99%80-%ED%92%80%EC%9D%B42-rhp3h8k9)**
 
 * **[섹션 5. 반복문 - 정리](https://velog.io/@hcw0709/%EC%A0%95%EB%A6%AC-u8ab2lkq)**
+
+* **[섹션 6. 스코프,형변환 - 지역 변수와 스코프](https://velog.io/@hcw0709/%EC%A7%80%EC%97%AD-%EB%B3%80%EC%88%98%EC%99%80-%EC%8A%A4%EC%BD%94%ED%94%84)**
+
+* **[섹션 6. 스코프,형변환 - 스코프 존재 이유](https://velog.io/@hcw0709/%EC%8A%A4%EC%BD%94%ED%94%84-%EC%A1%B4%EC%9E%AC-%EC%9D%B4%EC%9C%A0)**
+
+* **[섹션 6. 스코프,형변환 - 자동 형변환](https://velog.io/@hcw0709/%EC%9E%90%EB%8F%99-%ED%98%95%EB%B3%80%ED%99%98)**
+
+* **[섹션 6. 스코프,형변환 - 명시적 형변환](https://velog.io/@hcw0709/%EB%AA%85%EC%8B%9C%EC%A0%81-%ED%98%95%EB%B3%80%ED%99%98)**
+
+* **[섹션 6. 스코프,형변환 - 계산과 형변환](https://velog.io/@hcw0709/%EA%B3%84%EC%82%B0%EA%B3%BC-%ED%98%95%EB%B3%80%ED%99%98)**
+
+* **[섹션 6. 스코프,형변환 - 정리](https://velog.io/@hcw0709/%EC%A0%95%EB%A6%AC-hei6dfrh)**
