@@ -90,3 +90,17 @@
 * **[섹션 6. 스코프,형변환 - 계산과 형변환](https://velog.io/@hcw0709/%EA%B3%84%EC%82%B0%EA%B3%BC-%ED%98%95%EB%B3%80%ED%99%98)**
 
 * **[섹션 6. 스코프,형변환 - 정리](https://velog.io/@hcw0709/%EC%A0%95%EB%A6%AC-hei6dfrh)**
+
+* **[섹션 7. 훈련 - Scanner 학습](https://velog.io/@hcw0709/Scanner-%ED%95%99%EC%8A%B5)**
+
+* **[섹션 7. 훈련 - Scanner 기본 예제](https://velog.io/@hcw0709/Scanner-%EA%B8%B0%EB%B3%B8-%EC%98%88%EC%A0%9C)**
+
+* **[섹션 7. 훈련 - Scanner 반복 예제](https://velog.io/@hcw0709/Scanner-%EB%B0%98%EB%B3%B5-%EC%98%88%EC%A0%9C)**
+
+* **[섹션 7. 훈련 - 문제와 풀이 1](https://velog.io/@hcw0709/%EB%AC%B8%EC%A0%9C%EC%99%80-%ED%92%80%EC%9D%B4-1)**
+
+* **[섹션 7. 훈련 - 문제와 풀이 2](https://velog.io/@hcw0709/%EB%AC%B8%EC%A0%9C%EC%99%80-%ED%92%80%EC%9D%B4-2)**
+
+* **[섹션 7. 훈련 - 문제와 풀이 3](https://velog.io/@hcw0709/%EB%AC%B8%EC%A0%9C%EC%99%80-%ED%92%80%EC%9D%B4-3)**
+
+* **[섹션 7. 훈련 - 문제와 풀이 4](https://velog.io/@hcw0709/%EB%AC%B8%EC%A0%9C%EC%99%80-%ED%92%80%EC%9D%B4-4)**
