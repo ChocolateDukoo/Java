@@ -104,3 +104,7 @@
 * **[섹션 7. 훈련 - 문제와 풀이 3](https://velog.io/@hcw0709/%EB%AC%B8%EC%A0%9C%EC%99%80-%ED%92%80%EC%9D%B4-3)**
 
 * **[섹션 7. 훈련 - 문제와 풀이 4](https://velog.io/@hcw0709/%EB%AC%B8%EC%A0%9C%EC%99%80-%ED%92%80%EC%9D%B4-4)**
+
+* **[섹션 8. 배열 - 배열 시작](https://velog.io/@hcw0709/%EB%B0%B0%EC%97%B4-%EC%8B%9C%EC%9E%91)**
+
+* **[섹션 8. 배열 - 배열의 선언과 생성](https://velog.io/@hcw0709/%EB%B0%B0%EC%97%B4%EC%9D%98-%EC%84%A0%EC%96%B8%EA%B3%BC-%EC%83%9D%EC%84%B1)**
