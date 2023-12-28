@@ -108,3 +108,7 @@
 * **[섹션 8. 배열 - 배열 시작](https://velog.io/@hcw0709/%EB%B0%B0%EC%97%B4-%EC%8B%9C%EC%9E%91)**
 
 * **[섹션 8. 배열 - 배열의 선언과 생성](https://velog.io/@hcw0709/%EB%B0%B0%EC%97%B4%EC%9D%98-%EC%84%A0%EC%96%B8%EA%B3%BC-%EC%83%9D%EC%84%B1)**
+
+* **[섹션 8. 배열 - 배열 사용](https://velog.io/@hcw0709/%EB%B0%B0%EC%97%B4-%EC%82%AC%EC%9A%A9)**
+
+* **[섹션 8. 배열 - 배열 리펙토링](https://velog.io/@hcw0709/%EB%B0%B0%EC%97%B4-%EB%A6%AC%ED%8E%99%ED%86%A0%EB%A7%81)**
