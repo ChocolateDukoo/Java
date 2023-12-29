@@ -112,3 +112,9 @@
 * **[섹션 8. 배열 - 배열 사용](https://velog.io/@hcw0709/%EB%B0%B0%EC%97%B4-%EC%82%AC%EC%9A%A9)**
 
 * **[섹션 8. 배열 - 배열 리펙토링](https://velog.io/@hcw0709/%EB%B0%B0%EC%97%B4-%EB%A6%AC%ED%8E%99%ED%86%A0%EB%A7%81)**
+
+* **[섹션 8. 배열 - 2차원 배열 시작](https://velog.io/@hcw0709/2%EC%B0%A8%EC%9B%90-%EB%B0%B0%EC%97%B4-%EC%8B%9C%EC%9E%91)**
+
+* **[섹션 8. 배열 - 2차원 배열 리팩토링1](https://velog.io/@hcw0709/2%EC%B0%A8%EC%9B%90-%EB%B0%B0%EC%97%B4-%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%811)**
+
+* **[섹션 8. 배열 - 2차원 배열 리팩토링2](https://velog.io/@hcw0709/2%EC%B0%A8%EC%9B%90-%EB%B0%B0%EC%97%B4-%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%812)**
