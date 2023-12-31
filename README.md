@@ -120,3 +120,5 @@
 * **[섹션 8. 배열 - 2차원 배열 리팩토링2](https://velog.io/@hcw0709/2%EC%B0%A8%EC%9B%90-%EB%B0%B0%EC%97%B4-%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%812)**
 
 * **[섹션 8. 배열 - 향상된 for문](https://velog.io/@hcw0709/%ED%96%A5%EC%83%81%EB%90%9C-for%EB%AC%B8)**
+
+* **[섹션 8. 배열 - 문제와 풀이1](https://velog.io/@hcw0709/%EB%AC%B8%EC%A0%9C%EC%99%80-%ED%92%80%EC%9D%B41-gzz56wsn)**
