@@ -122,3 +122,7 @@
 * **[섹션 8. 배열 - 향상된 for문](https://velog.io/@hcw0709/%ED%96%A5%EC%83%81%EB%90%9C-for%EB%AC%B8)**
 
 * **[섹션 8. 배열 - 문제와 풀이1](https://velog.io/@hcw0709/%EB%AC%B8%EC%A0%9C%EC%99%80-%ED%92%80%EC%9D%B41-gzz56wsn)**
+
+* **[섹션 8. 배열 - 문제와 풀이2](https://velog.io/@hcw0709/%EB%AC%B8%EC%A0%9C%EC%99%80-%ED%92%80%EC%9D%B42-906l0qzc)**
+
+* **[섹션 8. 배열 - 문제와 풀이3](https://velog.io/@hcw0709/%EB%AC%B8%EC%A0%9C%EC%99%80-%ED%92%80%EC%9D%B43)**
