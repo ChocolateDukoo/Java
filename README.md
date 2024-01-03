@@ -126,3 +126,7 @@
 * **[섹션 8. 배열 - 문제와 풀이2](https://velog.io/@hcw0709/%EB%AC%B8%EC%A0%9C%EC%99%80-%ED%92%80%EC%9D%B42-906l0qzc)**
 
 * **[섹션 8. 배열 - 문제와 풀이3](https://velog.io/@hcw0709/%EB%AC%B8%EC%A0%9C%EC%99%80-%ED%92%80%EC%9D%B43)**
+
+* **[섹션 9. 메서드 - 메서드 시작](https://velog.io/@hcw0709/%EB%A9%94%EC%84%9C%EB%93%9C-%EC%8B%9C%EC%9E%91)**
+
+* **[섹션 9. 메서드 - 메서드 사용](https://velog.io/@hcw0709/%EB%A9%94%EC%84%9C%EB%93%9C-%EC%82%AC%EC%9A%A9)**
