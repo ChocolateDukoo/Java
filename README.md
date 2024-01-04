@@ -130,3 +130,5 @@
 * **[섹션 9. 메서드 - 메서드 시작](https://velog.io/@hcw0709/%EB%A9%94%EC%84%9C%EB%93%9C-%EC%8B%9C%EC%9E%91)**
 
 * **[섹션 9. 메서드 - 메서드 사용](https://velog.io/@hcw0709/%EB%A9%94%EC%84%9C%EB%93%9C-%EC%82%AC%EC%9A%A9)**
+
+* **[섹션 9. 메서드 - 메서드 정의](https://velog.io/@hcw0709/%EB%A9%94%EC%84%9C%EB%93%9C-%EC%A0%95%EC%9D%98)**
