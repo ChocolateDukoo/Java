@@ -134,3 +134,5 @@
 * **[섹션 9. 메서드 - 메서드 정의](https://velog.io/@hcw0709/%EB%A9%94%EC%84%9C%EB%93%9C-%EC%A0%95%EC%9D%98)**
 
 * **[섹션 9. 메서드 - 반환 타입](https://velog.io/@hcw0709/%EB%B0%98%ED%99%98-%ED%83%80%EC%9E%85)**
+
+* **[섹션 9. 메서드 - 메서드 호출과 값 전달1](https://velog.io/@hcw0709/%EB%A9%94%EC%84%9C%EB%93%9C-%ED%98%B8%EC%B6%9C%EA%B3%BC-%EA%B0%92-%EC%A0%84%EB%8B%AC1)**
