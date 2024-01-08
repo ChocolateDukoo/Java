@@ -138,3 +138,6 @@
 * **[섹션 9. 메서드 - 메서드 호출과 값 전달1](https://velog.io/@hcw0709/%EB%A9%94%EC%84%9C%EB%93%9C-%ED%98%B8%EC%B6%9C%EA%B3%BC-%EA%B0%92-%EC%A0%84%EB%8B%AC1)**
 
 * **[섹션 9. 메서드 - 메서드 호출과 값 전달2](https://velog.io/@hcw0709/%EB%A9%94%EC%84%9C%EB%93%9C-%ED%98%B8%EC%B6%9C%EA%B3%BC-%EA%B0%92-%EC%A0%84%EB%8B%AC2)**
+
+* **[섹션 9. 메서드 - 메서드와 형변환](https://velog.io/@hcw0709/%EB%A9%94%EC%84%9C%EB%93%9C%EC%99%80-%ED%98%95%EB%B3%80%ED%99%98)** 
+
