@@ -146,3 +146,5 @@
 * **[섹션 9. 메서드 - 문제와 풀이1](https://velog.io/@hcw0709/%EB%AC%B8%EC%A0%9C%EC%99%80-%ED%92%80%EC%9D%B41-7nd39jui)**
 
 * **[섹션 9. 메서드 - 문제와 풀이2](https://velog.io/@hcw0709/%EB%AC%B8%EC%A0%9C%EC%99%80-%ED%92%80%EC%9D%B42-k0dqc5yi)**
+
+* **[섹션 9. 메서드 - 정리](https://velog.io/@hcw0709/%EC%A0%95%EB%A6%AC-wwqpbus4)**
